@@ -17,7 +17,7 @@ public class ResourceController {
     private ResourceService resourceService;
 
     @PostMapping()
-    public Resource createResource(Resource resource) {
+    public Resource createResource(@RequestBody Resource resource) {
         return resourceService.createResource(resource);
     }
 
@@ -26,9 +26,9 @@ public class ResourceController {
         return resourceService.getAllResources();
     }
 
-    @GetMapping("/Task/{projectId}")
-    public ResponseEntity<List<Resource>> getTasksByProjectId(@PathVariable Long projectId) throws ResourceNotFoundException {
-        return ResponseEntity.ok(resourceService.getResourcesByTaskId(projectId));
+    @GetMapping("/Task/{taskId}")
+    public ResponseEntity<List<Resource>> getTasksByProjectId(@PathVariable Long taskId) throws ResourceNotFoundException {
+        return ResponseEntity.ok(resourceService.getResourcesByTaskId(taskId));
     }
 
     @PutMapping("/resource/{id}")

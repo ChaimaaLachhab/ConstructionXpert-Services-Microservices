@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="42b07fe2-946c-4722-96d2-6a4fd0165ed9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ConstructionXpert/project-service/src/main/resources/db/migration/V2__Create_Project_Table.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConstructionXpert/project-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ConstructionXpert/project-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConstructionXpert/resource-service/src/main/java/com/resource/controller/ResourceController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ConstructionXpert/resource-service/src/main/java/com/resource/controller/ResourceController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,13 +22,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="KubernetesApiPersistence">{}</component>
-  <component name="KubernetesApiProvider">{
-  &quot;isMigrated&quot;: true
-}</component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 5
-}</component>
+  <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
+  <component name="KubernetesApiProvider"><![CDATA[{
+  "isMigrated": true
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
   <component name="ProjectId" id="2lD9s4SfKCzDriC1zAsuVvOBtpU" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -45,32 +40,12 @@
     "Docker.ConstructionXpert.project-service: Compose Deployment.executor": "Run",
     "Docker.ConstructionXpert.task-service: Compose Deployment.executor": "Run",
     "Docker.ConstructionXpert: Compose Deployment.executor": "Run",
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "Spring Boot.EurekaServerApplication.executor": "Run",
-    "Spring Boot.ProjectServiceApplication.executor": "Run",
-    "Spring Boot.ResourceServiceApplication.executor": "Run",
-    "Spring Boot.TaskServiceApplication.executor": "Run",
     "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/user/OneDrive/Desktop/ConstructionXpert-Services-Microservices/ConstructionXpert/project-service/src/main/resources/db/migration",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "run.configurations.included.in.services": "true",
-    "settings.editor.selected.configurable": "http.proxy",
-    "vue.rearranger.settings.migration": "true"
+    "run.configurations.included.in.services": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\user\OneDrive\Desktop\ConstructionXpert-Services-Microservices\ConstructionXpert\project-service\src\main\resources\db\migration" />
       <recent name="C:\Users\PCPACK\OneDrive\Desktop\ConstructionXpert-Services-Microservices\ConstructionXpert\task-service\src\main\resources" />
       <recent name="C:\Users\PCPACK\OneDrive\Desktop\ConstructionXpert-Services-Microservices\ConstructionXpert\resource-service\src\main\resources" />
       <recent name="C:\Users\PCPACK\OneDrive\Desktop\ConstructionXpert-Services-Microservices\ConstructionXpert\project-service\src\main\resources" />
@@ -166,9 +141,7 @@
       <method v="2" />
     </configuration>
     <configuration default="true" type="docker-deploy" factoryName="docker-compose.yml" temporary="true">
-      <deployment type="docker-compose.yml">
-        <settings />
-      </deployment>
+      <deployment type="docker-compose.yml" />
       <method v="2" />
     </configuration>
     <recent_temporary>
@@ -197,16 +170,6 @@
       <option name="presentableId" value="Default" />
       <updated>1724703982432</updated>
       <workItem from="1724703983413" duration="9278000" />
-      <workItem from="1724832238236" duration="92000" />
-      <workItem from="1724832346306" duration="3743000" />
-      <workItem from="1724836190863" duration="8512000" />
-      <workItem from="1724945735034" duration="4000" />
-      <workItem from="1725009910347" duration="68000" />
-      <workItem from="1725010051026" duration="852000" />
-      <workItem from="1725355407028" duration="929000" />
-      <workItem from="1725525959863" duration="8090000" />
-      <workItem from="1725638365736" duration="71000" />
-      <workItem from="1725638456114" duration="980000" />
     </task>
     <servers />
   </component>
